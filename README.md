@@ -1,1 +1,2 @@
-normal project
+print("hello world tishu")
+
